@@ -6,7 +6,8 @@ As a side note. If you want to help, especially those versed in the interactivit
 
 I will update my progression in milestones.
 
-First Milestone: Initial framework design #INCOMPLETE
+First Milestone: Initial framework design 
+#-INCOMPLETE
 
 Things you may want to cover:
 
