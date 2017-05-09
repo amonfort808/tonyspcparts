@@ -10,7 +10,7 @@ First Milestone: Initial framework design
 
 # -INCOMPLETE
 
-Things you may want to cover:
+Version Info:
 
 * Currently using ruby version: 2.3.3
 
